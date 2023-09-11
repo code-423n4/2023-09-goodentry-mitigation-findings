@@ -1,0 +1,8 @@
+{
+  "contest": 283,
+  "handle": "kutugu",
+  "risk": "3",
+  "title": "Compound charges are sent to GeVault, making them potentially vulnerable to theft",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2023-09-goodentry-mitigation-findings/issues/49"
+}
