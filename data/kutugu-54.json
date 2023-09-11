@@ -1,0 +1,8 @@
+{
+  "contest": 283,
+  "handle": "kutugu",
+  "risk": "2",
+  "title": "The number of ticks is incorrectly fixed and is not equal to liquidityPerTick, resulting in low fund utilization.",
+  "issueId": 54,
+  "issueUrl": "https://github.com/code-423n4/2023-09-goodentry-mitigation-findings/issues/54"
+}
