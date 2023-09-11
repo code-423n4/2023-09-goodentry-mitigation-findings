@@ -1,0 +1,8 @@
+{
+  "contest": 283,
+  "handle": "xuwinnie",
+  "risk": "3",
+  "title": "Attacker can extract value from pool by sandwiching herself at `swapAll` during `close`",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2023-09-goodentry-mitigation-findings/issues/60"
+}
