@@ -1,0 +1,8 @@
+{
+  "contest": 283,
+  "handle": "xuwinnie",
+  "risk": "2",
+  "title": "Use of tx.origin breaks interoperability with AA wallets.",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2023-09-goodentry-mitigation-findings/issues/58"
+}
